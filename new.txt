@@ -1,0 +1,6 @@
+Reading the manual page for a unix command with man, I used rm. rm command \n
+will files that does not require super user do(sudo) permission. Using rm, I can use  \n
+different options that will allow me remove files an specific way. For example, typing  \n
+rm -d allows me to remove directories and other file, I can also use rm -i for confimation \n
+before a file deletion attempt. Notwithstanding the risk of deleting important files, rm is \n
+is capable to delete files using absolute and relative path.
